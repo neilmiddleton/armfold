@@ -10,7 +10,7 @@
   <br />
   <img width=300 src="http://f.cl.ly/items/2R04463p2F0Z291B1m3p/a6p87.gif">
   <br />
-  <img width=300 src="http://f.cl.ly/items/2n251J332Y0Y0W3l3U45/armfolding.gif">
+  <img width=300 src="http://cylen.cc/image/3o0D3v0w1q46/armfolding.gif">
   <br />
   <img width=300 src="http://i.imgur.com/LlzbgUR.gif">
   <br />
