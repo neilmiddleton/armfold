@@ -17,6 +17,10 @@
   <img width=300 src="http://creations.nokes.name/arm-folding.gif">
   <br />
   <img width=300 src="http://f.cl.ly/items/0g1c1m42152k3F0M352q/2014-07-11%2012_51_19.gif">
+  <br />
+  <img width=300 src="http://c.midd.io/WXJO/a8lq1.gif">
+  <br />
+  <img width=300 src="http://c.midd.io/WXtQ/a8lxm.gif">
 </div>
 
 </body>
