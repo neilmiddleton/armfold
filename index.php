@@ -21,6 +21,8 @@
   <img width=300 src="http://c.midd.io/WXJO/a8lq1.gif">
   <br />
   <img width=300 src="http://c.midd.io/WXtQ/a8lxm.gif">
+  <br />
+  <img width=300 src="http://c.midd.io/WZly/coby-arm-folding.gif">
 </div>
 
 </body>
