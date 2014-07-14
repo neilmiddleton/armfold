@@ -23,6 +23,8 @@
   <img width=300 src="http://c.midd.io/WXtQ/a8lxm.gif">
   <br />
   <img width=300 src="http://c.midd.io/WZly/coby-arm-folding.gif">
+  <br />
+  <img width=300 src="http://c.midd.io/WaOj/ab03v.gif">
 </div>
 
 </body>
